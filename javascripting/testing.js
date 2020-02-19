@@ -1,5 +1,4 @@
 //-------------first  java testing script-------------------------------------
-
 //under the name of john russelle domingo
 //console.log('test this string');
 
